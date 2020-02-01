@@ -1,8 +1,8 @@
 so this is the doc1.txt
 
 
-Now this whole line is complete differe
-This time i'm committing everything
+Change1 this is dev's 'dev'
+still on dev's dev but this is a a  sdfskjenfljksnbfkljnbf
 
 
 change2
